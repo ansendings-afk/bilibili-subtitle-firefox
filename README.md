@@ -14,6 +14,8 @@
 - **暗色模式**：自动适配页面明暗主题
 - **SPA 适配**：Bilibili 页面切换无需刷新，自动重建面板
 
+![字幕列表面板](docs/screenshot.png)
+
 ## 安装
 
 > 这是未签名的本地开发版，通过 Firefox 临时加载安装。要永久安装并自动更新，请上 [Firefox Add-ons](https://addons.mozilla.org/) 商店下载Bilibili 字幕列表。
