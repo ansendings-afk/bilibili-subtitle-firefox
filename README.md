@@ -18,7 +18,7 @@
 
 ## 安装
 
-> 这是未签名的本地开发版，通过 Firefox 临时加载安装。要永久安装并自动更新，请上 [Firefox Add-ons](https://addons.mozilla.org/) 商店下载Bilibili 字幕列表。
+> 这是未签名的本地开发版，通过 Firefox 临时加载安装。要永久安装并自动更新，请到 [Firefox Add-ons](https://addons.mozilla.org/zh-CN/firefox/) 商店下载「[Bilibili 字幕列表](https://addons.mozilla.org/zh-CN/firefox/addon/bilibili-%E5%AD%97%E5%B9%95%E5%88%97%E8%A1%A8/)」。
 
 1. 打开 Firefox，地址栏输入 `about:debugging#/runtime/this-firefox`
 2. 点击「临时载入附加组件」
